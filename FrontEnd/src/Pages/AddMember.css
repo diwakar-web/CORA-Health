@@ -1,0 +1,384 @@
+.addmember-wrap.redesigned {
+  max-width: 1100px;
+  margin: 28px auto;
+  padding: 18px;
+}
+
+
+.addmember-card.redesigned-card {
+  display: flex;
+  gap: 22px;
+  padding: 22px;
+  border-radius: 14px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(2, 6, 23, 0.06);
+  align-items: flex-start;
+  border: 3px solid black;
+}
+
+/* columns */
+.left-col {
+  width: 40%;
+  min-width: 320px;
+}
+
+.right-col {
+  flex: 1;
+  min-width: 320px;
+}
+
+/* photo uploader */
+.photo-uploader {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+}
+
+.photo-placeholder {
+  width: 120px;
+  height: 120px;
+  border-radius: 12px;
+  border: 1px dashed rgba(0, 0, 0, 0.08);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  background: #fbfdff;
+  font-weight: 700;
+}
+
+.photo-preview {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.file-input {
+  margin-top: 6px;
+}
+
+/* labels and inputs */
+.field-label {
+  font-size: 13px;
+  color: #334155;
+  margin: 10px 0 6px;
+  display: block;
+}
+
+.addmember-card input[type="text"],
+.addmember-card input[type="number"],
+.addmember-card input[type="tel"],
+.addmember-card input[type="time"],
+.addmember-card input[type="file"],
+.addmember-card select,
+.addmember-card textarea {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(2, 6, 23, 0.06);
+  background: #fbfdff;
+  margin-bottom: 6px;
+  font-size: 14px;
+}
+
+/* layout small groups */
+.row-two {
+  display: flex;
+  gap: 12px;
+}
+
+.row-two>div {
+  flex: 1;
+}
+
+/* times grid */
+.times-grid {
+  margin-top: 10px;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: 1fr;
+}
+
+.time-row input[type="time"] {
+  width: 160px;
+}
+
+/* actions */
+.form-actions.redesigned-actions {
+  display: flex;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.save-btn {
+  background: #588157;
+  color: #fff;
+  padding: 10px 22px;
+  border-radius: 22px;
+  border: 0;
+  font-weight: 700;
+}
+
+.clear-btn {
+  background: #bc4749;
+  color: #fff;
+  padding: 10px 22px;
+  border-radius: 22px;
+  border: 0;
+}
+
+/* error */
+.error {
+  color: #b91c1c;
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+/* responsive */
+@media (max-width: 900px) {
+  .addmember-card.redesigned-card {
+    flex-direction: column;
+  }
+
+  .left-col,
+  .right-col {
+    width: 100%;
+    min-width: auto;
+  }
+
+  .time-row input[type="time"] {
+    width: 100%;
+  }
+}
+
+.addmember-wrap.redesigned>h2 {
+  background: #b3c59c;
+  /* same green tone you already have */
+  padding: 14px 22px;
+  border-radius: 40px;
+  border: 3px solid #000;
+  /* black border requested */
+  color: #1f3528;
+  /* dark forest text */
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 24px;
+  text-align: left;
+  /* keep original alignment */
+  display: block;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  /* soft elevation */
+}
+
+/* Mobile adjustment */
+@media (max-width: 480px) {
+  .addmember-wrap.redesigned>h2 {
+    font-size: 1.3rem;
+    padding: 12px 18px;
+    border-radius: 28px;
+  }
+}
+
+
+
+/* ------------ Defensive stacking / pointer fixes for AddMember ------------ */
+
+/* keep AddMember on top of other UI layers (headers/footers) */
+.addmember-wrap.redesigned,
+.addmember-card.redesigned-card {
+  position: relative;
+  z-index: 999;
+  /* high to avoid overlays — adjust down if your app uses higher values */
+}
+
+/* ensure form controls accept pointer events and are visible */
+.addmember-card .file-input,
+.addmember-card .save-btn,
+.addmember-card .clear-btn,
+.addmember-card .photo-uploader,
+.addmember-card input,
+.addmember-card button,
+.addmember-card select,
+.addmember-card textarea {
+  position: relative;
+  z-index: 1000;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+/* make sure file input is visible and clickable */
+.addmember-card .file-input {
+  display: inline-block;
+  opacity: 1;
+  visibility: visible;
+}
+
+/* if your header/footer use fixed positioning, keep them lower than the form */
+.footer,
+.navbar {
+  z-index: 500;
+  /* ensure lower than AddMember area */
+}
+
+/* small nicety: button hover lift */
+.addmember-card .save-btn,
+.addmember-card .clear-btn {
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+
+.addmember-card .save-btn:hover,
+.addmember-card .clear-btn:hover {
+  transform: translateY(-2px);
+}
+
+/* responsive safety: ensure inputs are on top on small screens too */
+@media (max-width: 768px) {
+
+  .addmember-wrap.redesigned,
+  .addmember-card.redesigned-card {
+    z-index: 9999;
+  }
+}
+
+
+.photo-preview {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+
+
+/* ---------- Responsive overrides for AddMember (paste at end of AddMember.css) ---------- */
+
+/* make card wrap earlier and reduce gaps for smaller screens */
+.addmember-card.redesigned-card {
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: stretch;
+}
+
+/* columns adjust */
+.left-col {
+  width: 40%;
+  min-width: 240px;
+}
+
+.right-col {
+  flex: 1;
+  min-width: 240px;
+}
+
+/* photo preview sizing */
+.photo-preview {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+}
+
+/* ensure file input is full width on small screens */
+.addmember-card .file-input {
+  width: 100%;
+  max-width: 320px;
+  display: inline-block;
+}
+
+/* smaller time input width default (desktop) */
+.time-row input[type="time"] {
+  width: 160px;
+}
+
+/* responsive layout adjustments */
+@media (max-width: 900px) {
+  .addmember-card.redesigned-card {
+    padding: 16px;
+  }
+
+  /* stack columns */
+  .left-col,
+  .right-col {
+    width: 100%;
+    min-width: auto;
+  }
+
+  /* shrink preview on tablet/phone */
+  .photo-preview {
+    width: 120px;
+    height: 120px;
+  }
+
+  /* time inputs occupy full width on mobile */
+  .time-row input[type="time"] {
+    width: 100%;
+  }
+
+  /* make action buttons full-width and stacked for easier tapping */
+  .form-actions.redesigned-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .save-btn,
+  .clear-btn {
+    width: 100%;
+    padding: 12px;
+  }
+
+  /* compress paddings on the page */
+  .addmember-wrap.redesigned {
+    padding: 12px;
+    margin: 18px auto;
+  }
+
+  .addmember-wrap.redesigned>h2 {
+    font-size: 1.25rem;
+    padding: 12px 16px;
+  }
+
+  .row-two {
+    flex-direction: column;
+    gap: 8px;
+  }
+}
+
+/* extra small phones */
+@media (max-width: 420px) {
+  .photo-preview {
+    width: 96px;
+    height: 96px;
+  }
+
+  .addmember-wrap.redesigned>h2 {
+    font-size: 1.05rem;
+    padding: 10px 12px;
+    border-radius: 28px;
+  }
+}
+
+/* defensive: override inline style width/height issues for image avatar preview if present */
+.addmember-card img[alt="preview"] {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ensure placeholder is centered on narrow screens */
+.photo-placeholder {
+  width: 120px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* larger touch target for file input label area */
+.photo-uploader {
+  gap: 10px;
+}

@@ -1,0 +1,2503 @@
+[
+    {
+        "question": "What causes chest pain in heart disease?",
+        "answer": "Chest pain occurs when the heart muscles do not get enough oxygen-rich blood.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "What are common symptoms of a heart attack?",
+        "answer": "Symptoms include chest pressure, breathlessness, sweating, nausea, and pain radiating to the left arm or jaw.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "Why does my heart beat fast suddenly?",
+        "answer": "Sudden fast heartbeat can occur due to stress, anxiety, dehydration, or arrhythmia.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "How can I reduce my risk of heart disease?",
+        "answer": "Maintain a healthy diet, exercise regularly, avoid smoking, control blood pressure and sugar levels.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "What foods are good for heart health?",
+        "answer": "Leafy vegetables, nuts, whole grains, and omega-3 rich foods help maintain heart health.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "What is high blood pressure?",
+        "answer": "High blood pressure means the force of blood against artery walls is too high, increasing heart disease risk.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "How much walking is good for the heart?",
+        "answer": "30 minutes of brisk walking daily improves cardiovascular health.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "Why do I feel breathless while climbing stairs?",
+        "answer": "Breathlessness could be due to poor fitness or an underlying heart or lung issue.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "Can heart diseases be hereditary?",
+        "answer": "Yes, genetics play a major role in heart disease.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "What is cholesterol?",
+        "answer": "Cholesterol is a fatty substance in the blood; high levels increase heart attack risk.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "What causes acne on the face?",
+        "answer": "Acne occurs due to clogged pores, excess oil, bacteria, or hormonal imbalance.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "How can I treat dry skin?",
+        "answer": "Use moisturizers, avoid hot showers, and drink plenty of water.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Why do I have sudden rashes?",
+        "answer": "Rashes may occur due to allergies, infections, or skin irritation.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "What causes dandruff?",
+        "answer": "Dandruff is caused by scalp dryness, fungal infection, or sensitivity to hair products.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "How can I remove dark circles?",
+        "answer": "Dark circles can improve with sleep, hydration, and under-eye creams.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Why is my skin itching at night?",
+        "answer": "Night itching may be due to dryness, eczema, or allergies.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "How to treat sunburn quickly?",
+        "answer": "Apply aloe vera gel, cool compresses, and stay hydrated.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Why do I have hair fall?",
+        "answer": "Hair fall may result from stress, hormones, diet deficiency, or genetics.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Can oily skin cause pimples?",
+        "answer": "Yes, oily skin increases pore blockage leading to acne.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "How to get rid of fungal infection?",
+        "answer": "Use antifungal creams and keep affected areas dry.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Why do I feel bloated after eating?",
+        "answer": "Bloating may occur due to indigestion, gas buildup, or food intolerance.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "What causes acidity?",
+        "answer": "Acidity is caused by spicy foods, stress, irregular meals, or acid reflux.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Why do I feel like vomiting?",
+        "answer": "Nausea may occur from infections, acidity, food poisoning, or motion sickness.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "What foods help in constipation?",
+        "answer": "Fruits, vegetables, whole grains, and plenty of water help relieve constipation.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Why does my stomach hurt after meals?",
+        "answer": "Stomach pain after eating may be due to gastritis or food sensitivity.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "What are symptoms of food poisoning?",
+        "answer": "Vomiting, diarrhea, stomach cramps, and fever are common symptoms.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Can stress cause stomach problems?",
+        "answer": "Yes, stress affects digestion and can cause pain and acidity.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Why do I burp too much?",
+        "answer": "Excess burping is due to swallowing air, carbonated drinks, or acidity.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "What causes diarrhea?",
+        "answer": "Diarrhea may result from infections, contaminated water, or food intolerance.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "How to improve digestion?",
+        "answer": "Eat slowly, stay hydrated, include fiber, and avoid junk food.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "What causes mild fever?",
+        "answer": "Mild fever is usually caused by viral infections, dehydration, or fatigue.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Why do I feel tired all the time?",
+        "answer": "Fatigue may be due to anemia, thyroid issues, stress, or lack of sleep.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "What should I do if I have a cold?",
+        "answer": "Take rest, drink fluids, and use steam inhalation for relief.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Why do I get recurring headaches?",
+        "answer": "Recurring headaches may be due to stress, dehydration, or migraines.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "How to treat body weakness?",
+        "answer": "Eat balanced meals, stay hydrated, and get proper sleep.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Is it normal to feel dizzy sometimes?",
+        "answer": "Occasional dizziness may occur due to low BP, weakness, or dehydration.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "What helps in boosting immunity?",
+        "answer": "Healthy diet, vitamins, exercise, proper sleep, and hydration boost immunity.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Why do I get night sweating?",
+        "answer": "Night sweats may be due to infections, stress, or hormonal imbalance.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Why does my throat hurt?",
+        "answer": "Sore throat may be due to viral infections or allergies.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "How to treat mild dehydration?",
+        "answer": "Drink ORS, water, and avoid heat exposure.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "What causes sudden dizziness?",
+        "answer": "Dizziness may be due to inner ear issues, low BP, or neurological problems.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Why do I feel numbness in hands?",
+        "answer": "Numbness can be due to nerve compression or vitamin B12 deficiency.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "What are early signs of stroke?",
+        "answer": "Sudden weakness, slurred speech, facial drooping, or loss of balance.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Why does migraine occur?",
+        "answer": "Migraines occur due to genetics, triggers like stress, bright light, or dehydration.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "What causes shaking hands?",
+        "answer": "Hand tremors may occur due to anxiety, caffeine, or Parkinson’s disease.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Why do I forget things easily?",
+        "answer": "Memory issues may be due to stress, poor sleep, or vitamin deficiency.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "What is epilepsy?",
+        "answer": "Epilepsy is a neurological condition that causes recurrent seizures.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Why do I feel constant pressure in my head?",
+        "answer": "Head pressure may be due to tension headache or sinus issues.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Why do I wake up with headaches?",
+        "answer": "Morning headaches can be due to poor sleep or grinding teeth.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "How to reduce migraine attacks?",
+        "answer": "Avoid triggers, stay hydrated, rest, and use doctor-prescribed medicines.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Why do periods get delayed?",
+        "answer": "Delayed periods may be caused by stress, hormonal imbalance, or PCOS.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Why do I get severe period pain?",
+        "answer": "Severe cramps may be due to dysmenorrhea or hormonal fluctuations.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "What causes white discharge?",
+        "answer": "White discharge is normal but foul smell may indicate infection.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "What are early signs of pregnancy?",
+        "answer": "Nausea, missed period, fatigue, and breast tenderness are early signs.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Why does my lower abdomen hurt?",
+        "answer": "Lower abdominal pain may be due to infection or ovarian issues.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "What is PCOS?",
+        "answer": "PCOS is a hormonal disorder causing irregular periods and weight gain.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Why do I feel nausea during pregnancy?",
+        "answer": "Pregnancy hormones can cause nausea, especially in the first trimester.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "How to reduce period cramps?",
+        "answer": "Heat pad, hydration, light exercise, and pain relievers help.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Why do I have mood swings?",
+        "answer": "Hormonal changes can lead to emotional fluctuations.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "How to maintain menstrual hygiene?",
+        "answer": "Change sanitary products regularly and maintain cleanliness.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Why does my ear feel blocked?",
+        "answer": "Ear blockage may occur due to wax buildup or infection.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Why do I have ringing in my ears?",
+        "answer": "Ringing in ears, or tinnitus, may be due to loud noise exposure.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Why do I lose my voice suddenly?",
+        "answer": "Voice loss may be due to laryngitis or excessive shouting.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Why does my nose bleed?",
+        "answer": "Nose bleeding may occur due to dryness or high blood pressure.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "What causes throat pain?",
+        "answer": "Throat pain may be due to viral infections or tonsillitis.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Why do I hear echo in one ear?",
+        "answer": "Echo sensation may be caused by fluid buildup behind the eardrum.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Why does my nose get blocked at night?",
+        "answer": "Night congestion may be due to allergies or sinus issues.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Why do I get frequent tonsil infections?",
+        "answer": "Repeated throat infections may indicate chronic tonsillitis.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Why do I feel dizzy when standing?",
+        "answer": "Ear-related balance issues can cause dizziness.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "How to treat sinus headache?",
+        "answer": "Steam inhalation and decongestants help in sinus relief.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Why do I cough at night?",
+        "answer": "Night cough may occur due to asthma, allergies, or acid reflux.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Why do I feel short of breath?",
+        "answer": "Shortness of breath may be caused by asthma, infections, or anxiety.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "What are symptoms of asthma?",
+        "answer": "Asthma symptoms include wheezing, cough, and breathlessness.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Why does pollution affect breathing?",
+        "answer": "Pollution irritates the airways causing inflammation.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "What causes chest congestion?",
+        "answer": "Chest congestion occurs due to mucus buildup from infections.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Why do I wheeze while sleeping?",
+        "answer": "Wheezing indicates narrowed airways due to asthma or allergies.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "How can I improve lung health?",
+        "answer": "Regular exercise, breathing practices, and avoiding smoke help.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Why do I get frequent coughs?",
+        "answer": "Frequent coughs may be due to allergies or infections.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "What causes bronchitis?",
+        "answer": "Bronchitis occurs due to airway infection or smoking.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "How to relieve blocked nose?",
+        "answer": "Steam inhalation and saline sprays help.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "What causes sudden weight gain?",
+        "answer": "Hormonal imbalance, thyroid issues, or lifestyle changes can cause weight gain.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Why do I feel thirsty all the time?",
+        "answer": "Constant thirst may indicate diabetes or dehydration.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "What are symptoms of thyroid disorder?",
+        "answer": "Thyroid issues may cause weight changes, fatigue, and hair fall.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Why does my sugar level fluctuate?",
+        "answer": "Irregular meals, stress, or medications may cause sugar variations.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "What is diabetes?",
+        "answer": "Diabetes is a condition where blood sugar levels are too high.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Why do I feel sleepy after eating?",
+        "answer": "Post-meal drowsiness may be due to insulin response or heavy meals.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "What foods should diabetics avoid?",
+        "answer": "Sugary items, processed foods, and white flour should be limited.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Why do I crave sugar often?",
+        "answer": "Sugar cravings may signal hormonal imbalance or low blood sugar.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "What causes hair thinning in thyroid patients?",
+        "answer": "Hormonal imbalance affects hair growth cycles.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "How to manage thyroid naturally?",
+        "answer": "Proper sleep, diet, and stress control support thyroid health.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Why do I feel anxious without reason?",
+        "answer": "Generalized anxiety can occur due to stress, imbalance of brain chemicals, or lifestyle.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Why do I overthink at night?",
+        "answer": "Overthinking is linked to stress, anxiety, or poor sleep habits.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Why do I feel low and unmotivated?",
+        "answer": "Low motivation may occur due to depression, stress, or burnout.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "What causes panic attacks?",
+        "answer": "Panic attacks arise from sudden adrenaline release due to stress or anxiety.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Why can’t I sleep properly?",
+        "answer": "Sleep disturbances occur due to stress, screen time, or insomnia.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "What causes mood swings?",
+        "answer": "Mood swings may occur due to emotional stress or hormonal changes.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Why do I lose interest in daily activities?",
+        "answer": "Loss of interest is a key symptom of depression.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Why do I feel irritated all the time?",
+        "answer": "Irritability can be linked to anxiety, stress, or sleep deprivation.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Can stress affect physical health?",
+        "answer": "Yes, stress can cause headaches, fatigue, stomach issues, and high BP.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "How can I reduce stress naturally?",
+        "answer": "Exercise, meditation, proper sleep, and balanced diet help reduce stress.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Seene me dard kyun hota hai?",
+        "answer": "Chest pain tab hota hai jab heart ko oxygen-rich blood sahi se nahi milta.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "Heart attack ke common symptoms kya hote hain?",
+        "answer": "Chest pressure, saans chadhna, pasina, nausea aur left arm ya jaw me dard common symptoms hain.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "Dil tez dhadakne ka reason kya hota hai?",
+        "answer": "Fast heartbeat stress, anxiety, dehydration ya arrhythmia ki wajah se ho sakta hai.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "Heart disease ka risk kaise kam karein?",
+        "answer": "Healthy diet, exercise, BP control, sugar control aur smoking avoid karke risk kam hota hai.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "Heart ke liye kaunse foods ache hote hain?",
+        "answer": "Nuts, green leafy veggies, whole grains, aur omega-3 rich foods heart ke liye beneficial hote hain.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "High BP kya hota hai?",
+        "answer": "High BP me blood arteries me zyada pressure se flow hota hai, jo heart risk badhata hai.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "Roz kitna walk karna heart ke liye acha hota hai?",
+        "answer": "Roz 30 minutes brisk walk heart health ke liye bahut acha hota hai.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "Stairs chadh kar saans kyun phoolti hai?",
+        "answer": "Ye fitness low hone, heart issue ya lungs problem ki wajah se ho sakta hai.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "Kya heart disease family se hoti hai?",
+        "answer": "Haan, genetics heart problems me bada role play karte hain.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "Cholesterol kya hota hai?",
+        "answer": "Cholesterol ek fatty substance hota hai jo zyada hone par heart attack ka risk badhata hai.",
+        "tags": [
+            "Cardiologist"
+        ]
+    },
+    {
+        "question": "Face par pimples kyun aate hain?",
+        "answer": "Pores block hone, zyada oil, bacteria aur hormones ki wajah se pimples aate hain.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Dry skin ka solution kya hai?",
+        "answer": "Moisturizer lagao, hot shower avoid karo aur paani zyada piyo.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Skin par rashes kyun ho jate hain?",
+        "answer": "Allergy, infection ya irritation ki wajah se rashes ho sakte hain.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Dandruff ka reason kya hota hai?",
+        "answer": "Scalp dryness ya fungal infection dandruff ka main reason hai.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Dark circles kaise kam karein?",
+        "answer": "Proper sleep, hydration aur under-eye cream se dark circles kam hote hain.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Raat ko skin zyada kyun khujlati hai?",
+        "answer": "Dryness, eczema ya allergy ki wajah se night itching hoti hai.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Sunburn ka quick treatment kya hai?",
+        "answer": "Aloe vera, cool compress aur hydration sunburn me madad karte hain.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Hair fall kyun hota hai?",
+        "answer": "Stress, hormones, diet deficiency ya genetics ki wajah se hair fall hota hai.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Kya oily skin se pimples badhte hain?",
+        "answer": "Haan, oily skin pores clog karke pimples cause karti hai.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Fungal infection kaise theek hota hai?",
+        "answer": "Antifungal cream use karo aur area ko dry rakho.",
+        "tags": [
+            "Dermatologist"
+        ]
+    },
+    {
+        "question": "Khane ke baad pet phoolna kyun hota hai?",
+        "answer": "Bloating gas aur indigestion ki wajah se hoti hai.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Acidity kyun hoti hai?",
+        "answer": "Spicy khana, stress aur irregular meals acidity cause karte hain.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Ulti jaisi feeling kyun aati hai?",
+        "answer": "Infection, acidity, food poisoning ya travel sickness ki wajah se.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Constipation me kya khana chahiye?",
+        "answer": "Fiber-rich food aur paani constipation me best hota hai.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Khane ke baad pet dard kyun hota hai?",
+        "answer": "Gastritis ya food intolerance ki wajah se ho sakta hai.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Food poisoning ke symptoms kya hote hain?",
+        "answer": "Vomiting, diarrhea, stomach cramps aur fever.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Kya stress digestion ko affect karta hai?",
+        "answer": "Haan, stress digestion slow karta hai aur acidity badhata hai.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Zyada burping kyun hota hai?",
+        "answer": "Air swallow karne ya carbonated drinks ki wajah se burping hoti hai.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Loose motion kyun hote hain?",
+        "answer": "Infection, contaminated food ya water ki wajah se.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Digestion kaise improve karein?",
+        "answer": "Slow khana, hydration aur junk avoid karna digestion improve karta hai.",
+        "tags": [
+            "Gastroenterologist"
+        ]
+    },
+    {
+        "question": "Halka bukhar kyun hota hai?",
+        "answer": "Viral infection, dehydration ya fatigue se light fever hota hai.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Hamesha thakan kyun lagti hai?",
+        "answer": "Anemia, stress, thyroid ya lack of sleep ki wajah se.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Common cold ka treatment kya hai?",
+        "answer": "Rest, steam aur hydration common cold me help karte hain.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Bar bar headache kyun hota hai?",
+        "answer": "Dehydration, stress ya migraine ki wajah se hota hai.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Gale me dard kyun hota hai?",
+        "answer": "Sore throat infection ya allergy se hota hai.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Immunity kaise badhayein?",
+        "answer": "Healthy food, sleep, paani aur exercise immunity improve karte hain.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Dehydration kaise hota hai?",
+        "answer": "Garmi, diarrhea ya paani kam peene se dehydration hota hai.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Chakkar kyun aate hain?",
+        "answer": "Low BP, weakness ya dehydration ki wajah se.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Body weakness kyun hota hai?",
+        "answer": "Viral infection ya vitamin deficiency ki wajah se.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Kab fever serious hota hai?",
+        "answer": "3 din se zyada fever ya 103°F se upar fever serious mana jata hai.",
+        "tags": [
+            "General Physician"
+        ]
+    },
+    {
+        "question": "Chakkar kyun aate hain?",
+        "answer": "Chakkar inner ear problem, dehydration ya low BP ki wajah se hote hain.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Haath pair me sunnapan kyun hota hai?",
+        "answer": "Numbness nerve compression ya vitamin B12 deficiency ki wajah se hota hai.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Stroke ke early signs kya hote hain?",
+        "answer": "Sudden weakness, face droop aur bolne me problem stroke ke signs hain.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Migraine kyun hota hai?",
+        "answer": "Migraine stress, bright light, dehydration ya genetics ki wajah se hota hai.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Haath kaanpna kis wajah se hota hai?",
+        "answer": "Hand tremor anxiety, caffeine ya Parkinson’s disease me hota hai.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Yaad-dasht kam kyun ho rahi hai?",
+        "answer": "Memory loss stress, poor sleep ya vitamin deficiency se hota hai.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Epilepsy kya hota hai?",
+        "answer": "Epilepsy me brain ki abnormal electrical activity se seizures aate hain.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Sar me pressure kyun feel hota hai?",
+        "answer": "Head pressure tension headache ya sinus ki wajah se hota hai.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Subah headache kyun hota hai?",
+        "answer": "Morning headache poor posture ya teeth grinding ki wajah se hota hai.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Migraine ka attack kaise kam karein?",
+        "answer": "Triggers avoid karo, paani piyo, rest lo aur stress kam karo.",
+        "tags": [
+            "Neurologist"
+        ]
+    },
+    {
+        "question": "Periods late kyun hote hain?",
+        "answer": "Stress, hormone imbalance, weight change ya PCOS se periods late hote hain.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Period cramps itne zyada kyun hote hain?",
+        "answer": "Severe cramps dysmenorrhea ya hormonal issues ki wajah se hote hain.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "White discharge normal hai kya?",
+        "answer": "Normal white discharge theek hai, lekin smell ya itching infection batata hai.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Pregnancy ke early signs kya hote hain?",
+        "answer": "Missed period, nausea, fatigue aur breast tenderness early signs hain.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Lower abdomen me dard kyun hota hai?",
+        "answer": "Ye infection, ovarian cyst ya period cramps ki wajah se ho sakta hai.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "PCOS kya hota hai?",
+        "answer": "PCOS ek hormonal disorder hai jisme periods irregular hote hain.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Pregnancy me nausea kyun hoti hai?",
+        "answer": "Pregnancy hormones nausea cause karte hain, especially first trimester me.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Period pain ka natural treatment kya hai?",
+        "answer": "Heating pad, hydration aur stretching se pain kam hota hai.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Mood swings kyun hote hain?",
+        "answer": "Hormonal changes mood swings ka main reason hain.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Irregular periods ka reason kya hai?",
+        "answer": "Stress, thyroid imbalance aur PCOS irregular cycles cause karte hain.",
+        "tags": [
+            "Gynecologist"
+        ]
+    },
+    {
+        "question": "Kaan band sa kyun lagta hai?",
+        "answer": "Earwax build-up ya infection ki wajah se ear blocked feel hota hai.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Kano me ghanti kyun bajti hai?",
+        "answer": "Loud noise exposure ya ear damage ki wajah se tinnitus hota hai.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Voice kyun chali jati hai?",
+        "answer": "Laryngitis ya zyada bolne ki wajah se voice chali jaati hai.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Nose bleeding kyun hoti hai?",
+        "answer": "Dryness, heat ya high BP nose bleeding ka cause hota hai.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Gale me pain kyun hota hai?",
+        "answer": "Sore throat viral infection ya allergy ki wajah se hota hai.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Ek kaan me echo kyun hota hai?",
+        "answer": "Fluid build-up behind eardrum echo sensation cause karta hai.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Nose bar bar block kyun hoti hai?",
+        "answer": "Allergy, sinus ya cold ki wajah se nose block hoti hai.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Bar bar tonsils kyun hota hai?",
+        "answer": "Repeated throat infections chronic tonsillitis ka sign hai.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Khade hote hi chakkar kyun aata hai?",
+        "answer": "Ear balance issue ya low BP ki wajah se dizziness hota hai.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Sinus headache kaise theek hota hai?",
+        "answer": "Steam inhalation aur nasal spray sinus relief me madad karte hain.",
+        "tags": [
+            "ENT Specialist (Otolaryngologist)"
+        ]
+    },
+    {
+        "question": "Raat me khansi kyun badh jati hai?",
+        "answer": "Asthma, allergy ya postnasal drip night cough ka reason hota hai.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Saans phoolna kyun hota hai?",
+        "answer": "Asthma, lung infection ya anxiety se breathlessness hoti hai.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Wheezing kya hoti hai?",
+        "answer": "Wheezing tab hoti hai jab airways narrow ho jate hain.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Chest me congestion kyun hota hai?",
+        "answer": "Mucus build-up ya cold se chest congestion hota hai.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Pollution breathing ko kaise affect karta hai?",
+        "answer": "Polluted air lungs ko irritate karke inflammation karta hai.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Bar bar khansi kyun hoti hai?",
+        "answer": "Allergy ya lung infection frequent cough ka cause hota hai.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Bronchitis kya hota hai?",
+        "answer": "Bronchitis me airways infected ho jate hain jisse mucus banta hai.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Lungs strong kaise banayein?",
+        "answer": "Breathing exercises, walking aur smoking avoid karna helpful hai.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Sote time wheezing kyun hoti hai?",
+        "answer": "Yeh uncontrolled asthma ka sign hota hai.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Nose block ka home remedy kya hai?",
+        "answer": "Steam aur saline spray nose blockage me sabse effective hai.",
+        "tags": [
+            "Pulmonologist"
+        ]
+    },
+    {
+        "question": "Weight suddenly badh kyun raha hai?",
+        "answer": "Thyroid imbalance ya hormones ki wajah se weight badh sakta hai.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Hamesha pyaas lagna diabetes ka sign hai kya?",
+        "answer": "Haan, excessive thirst diabetes ka common symptom hai.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Thyroid problem kyun hoti hai?",
+        "answer": "Autoimmune disorder ya iodine imbalance se thyroid issue hota hai.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Sugar level fluctuate kyun hota hai?",
+        "answer": "Irregular eating, stress aur medicines sugar variations cause karte hain.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Hypothyroidism kya hota hai?",
+        "answer": "Hypothyroidism me thyroid gland kam kaam karta hai.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Khane ke baad neend kyun aati hai?",
+        "answer": "Insulin response aur heavy meal ki wajah se drowsiness hoti hai.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Mujhe hamesha meetha kyun khane ka mann karta hai?",
+        "answer": "Sugar craving stress ya low blood sugar ki wajah se hoti hai.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Diabetes patients kya avoid karein?",
+        "answer": "Sugar, white flour aur high-carb food avoid karna chahiye.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Thyroid me hair fall kyun hota hai?",
+        "answer": "Thyroid imbalance hair growth cycle ko affect karta hai.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Thyroid healthy kaise rakhein?",
+        "answer": "Sleep, balanced diet aur stress kam rakhna helpful hota hai.",
+        "tags": [
+            "Endocrinologist"
+        ]
+    },
+    {
+        "question": "Bin baat anxiety kyun hoti hai?",
+        "answer": "Stress, lifestyle aur brain chemicals imbalance anxiety cause karte hain.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Raat me overthinking kyun hoti hai?",
+        "answer": "Stress, routine ki kami aur zyada screen time ki wajah se hoti hai.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Motivation kyun kam ho jati hai?",
+        "answer": "Depression, stress ya burnout se motivation kam hota hai.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Panic attack kyun aata hai?",
+        "answer": "Sudden adrenaline release se panic attack hota hai.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Neend kyun nahi aati?",
+        "answer": "Stress, phone usage ya insomnia se sleep disturb hoti hai.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Mood swings kyun hote hain?",
+        "answer": "Hormonal changes ya emotional stress mood swings cause karte hain.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Kyun kisi cheez me interest nahi raha?",
+        "answer": "Loss of interest depression ka main symptom hota hai.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Hamesha irritate kyun feel hota hai?",
+        "answer": "Stress, anxiety aur lack of rest irritation cause karte hain.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Kya stress se physical problems hoti hain?",
+        "answer": "Haan, stress headache, fatigue aur BP badha sakta hai.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "Stress naturally kaise kam karein?",
+        "answer": "Exercise, meditation, proper sleep aur healthy food se stress kam hota hai.",
+        "tags": [
+            "Psychiatrist"
+        ]
+    },
+    {
+        "question": "I am having a fever",
+        "answer": "You can take paracetamol 500mg and drink plenty of water."
+    },
+    {
+        "question": "I have a headache",
+        "answer": "You can take paracetamol or ibuprofen and rest for a while."
+    },
+    {
+        "question": "I feel nauseous",
+        "answer": "You can take domperidone or drink ORS solution slowly."
+    },
+    {
+        "question": "I have stomach pain",
+        "answer": "You can take dicyclomine for cramps and drink warm water."
+    },
+    {
+        "question": "I have acidity",
+        "answer": "You can take Gelusil or Eno and avoid spicy food."
+    },
+    {
+        "question": "I have gas and bloating",
+        "answer": "You can take simethicone drops/tablets for relief."
+    },
+    {
+        "question": "I have a cold",
+        "answer": "You can take cetirizine and drink warm fluids."
+    },
+    {
+        "question": "I have a cough",
+        "answer": "You can take a cough syrup like Benadryl or Ascoril."
+    },
+    {
+        "question": "I have a sore throat",
+        "answer": "You can take warm salt water gargles and lozenges like Strepsils."
+    },
+    {
+        "question": "I am feeling dizzy",
+        "answer": "You can drink ORS, rest, and avoid sudden movements."
+    },
+    {
+        "question": "I have loose motion",
+        "answer": "You can take ORS and loperamide if necessary."
+    },
+    {
+        "question": "I feel weakness",
+        "answer": "You can drink ORS and take Vitamin B-complex."
+    },
+    {
+        "question": "I have a muscular pain",
+        "answer": "You can take ibuprofen or apply Volini spray."
+    },
+    {
+        "question": "I have tooth pain",
+        "answer": "You can take paracetamol and use clove oil for temporary relief."
+    },
+    {
+        "question": "I have back pain",
+        "answer": "You can take ibuprofen and apply a heating pad."
+    },
+    {
+        "question": "I have chest burning",
+        "answer": "You can take Digene or Eno for quick relief."
+    },
+    {
+        "question": "I have diarrhea",
+        "answer": "You can take ORS and probiotics like Econorm."
+    },
+    {
+        "question": "I have vomiting",
+        "answer": "You can take Ondansetron (Zofran) 4mg once."
+    },
+    {
+        "question": "I have nasal congestion",
+        "answer": "You can use steam inhalation and Nasivion drops."
+    },
+    {
+        "question": "I have skin itching",
+        "answer": "You can take cetirizine and apply calamine lotion."
+    },
+    {
+        "question": "mujhe bukhar ho raha hai",
+        "answer": "Aap paracetamol 500mg le sakte ho aur paani zyada piyo."
+    },
+    {
+        "question": "mujhe sar dard ho raha hai",
+        "answer": "Aap paracetamol ya ibuprofen le lo aur thoda rest karo."
+    },
+    {
+        "question": "mujhe ulti ho rahi hai",
+        "answer": "Aap domperidone le sakte ho ya ORS dheere dheere piyo."
+    },
+    {
+        "question": "mujhe pet me dard ho raha hai",
+        "answer": "Dicyclomine lene se cramps me relief mil sakta hai."
+    },
+    {
+        "question": "mujhe acidity ho rahi hai",
+        "answer": "Aap Gelusil, Digene ya Eno le sakte ho."
+    },
+    {
+        "question": "mujhe gas ho rahi hai",
+        "answer": "Aap simethicone tablet le sakte ho gas relief ke liye."
+    },
+    {
+        "question": "mujhe sardi ho rahi hai",
+        "answer": "Aap cetirizine le lo aur garam paani piyo."
+    },
+    {
+        "question": "mujhe khansi ho rahi hai",
+        "answer": "Aap cough syrup jaise Benadryl le sakte ho."
+    },
+    {
+        "question": "mujhe gale me dard hai",
+        "answer": "Aap Strepsils lozenges lo aur warm gargles karo."
+    },
+    {
+        "question": "mujhe chakkar aa rahe hain",
+        "answer": "Aap ORS piyo aur thoda rest karo."
+    },
+    {
+        "question": "mujhe loose motion ho rahe hain",
+        "answer": "Aap ORS piyo aur loperamide le sakte ho."
+    },
+    {
+        "question": "mujhe kamzori ho rahi hai",
+        "answer": "Aap ORS piyo aur B-complex le sakte ho."
+    },
+    {
+        "question": "mujhe body pain ho raha hai",
+        "answer": "Aap ibuprofen le lo ya Volini spray lagao."
+    },
+    {
+        "question": "mujhe daant dard ho raha hai",
+        "answer": "Aap paracetamol le lo aur clove oil laga sakte ho."
+    },
+    {
+        "question": "mujhe kamar dard ho raha hai",
+        "answer": "Aap ibuprofen le sakte ho ya heating pad use karo."
+    },
+    {
+        "question": "mujhe seene me jalan ho rahi hai",
+        "answer": "Aap Digene ya Eno le sakte ho relief ke liye."
+    },
+    {
+        "question": "mujhe dast lag rahe hain",
+        "answer": "Aap ORS piyo aur probiotics jaise Econorm lo."
+    },
+    {
+        "question": "mujhe bahut ulti aa rahi hai",
+        "answer": "Aap Ondansetron 4mg le sakte ho."
+    },
+    {
+        "question": "mujhe naak band lag rahi hai",
+        "answer": "Aap steam lo aur Nasivion drops use kar sakte ho."
+    },
+    {
+        "question": "mujhe skin me jalan ho rahi hai",
+        "answer": "Aap cetirizine lo aur calamine lotion lagao."
+    },
+    {
+        "question": "I have stomach cramps",
+        "answer": "You can take dicyclomine and drink warm water."
+    },
+    {
+        "question": "I feel very tired",
+        "answer": "You can take vitamin B-complex and hydrate yourself well."
+    },
+    {
+        "question": "I have body ache",
+        "answer": "You can take ibuprofen or paracetamol for relief."
+    },
+    {
+        "question": "I have blocked nose",
+        "answer": "You can take steam inhalation and use saline nasal spray."
+    },
+    {
+        "question": "I have indigestion",
+        "answer": "You can take digestive enzymes or Gelusil."
+    },
+    {
+        "question": "I have leg cramps",
+        "answer": "You can take ORS and magnesium supplements."
+    },
+    {
+        "question": "I have joint pain",
+        "answer": "You can apply a pain relief gel and take ibuprofen if needed."
+    },
+    {
+        "question": "I have back stiffness",
+        "answer": "You can use a heating pad and take paracetamol."
+    },
+    {
+        "question": "I have mild fever",
+        "answer": "You can take paracetamol 500mg and rest well."
+    },
+    {
+        "question": "I have throat irritation",
+        "answer": "You can take lozenges and drink warm ginger water."
+    },
+    {
+        "question": "I have chest congestion",
+        "answer": "You can take expectorant syrup like Ascoril."
+    },
+    {
+        "question": "I have difficulty sleeping",
+        "answer": "You can take melatonin and avoid screens before bed."
+    },
+    {
+        "question": "I have gas trouble",
+        "answer": "You can take simethicone for quick relief."
+    },
+    {
+        "question": "I have stomach burning",
+        "answer": "You can take Digene or Eno for acidity relief."
+    },
+    {
+        "question": "I have itchy eyes",
+        "answer": "You can use lubricating eye drops."
+    },
+    {
+        "question": "I have irritation in nose",
+        "answer": "You can use saline nasal spray."
+    },
+    {
+        "question": "I have ear pain",
+        "answer": "You can take paracetamol and keep the ear dry."
+    },
+    {
+        "question": "I have shoulder pain",
+        "answer": "You can apply a hot pack and take ibuprofen if needed."
+    },
+    {
+        "question": "I have neck stiffness",
+        "answer": "You can use a warm compress and take muscle relaxants like Myosone."
+    },
+    {
+        "question": "I have mild allergy symptoms",
+        "answer": "You can take cetirizine once daily."
+    },
+    {
+        "question": "mujhe pet me cramps ho rahe hain",
+        "answer": "Aap dicyclomine le sakte ho aur garam paani piyo."
+    },
+    {
+        "question": "mujhe bahut thakan ho rahi hai",
+        "answer": "Aap vitamin B-complex le lo aur paani zyada piyo."
+    },
+    {
+        "question": "mujhe body me dard ho raha hai",
+        "answer": "Aap ibuprofen ya paracetamol le sakte ho."
+    },
+    {
+        "question": "mujhe naak band hai",
+        "answer": "Aap steam lo aur saline nasal spray use karo."
+    },
+    {
+        "question": "mujhe hazma theek nahi lag raha",
+        "answer": "Aap digestive enzyme ya Gelusil le lo."
+    },
+    {
+        "question": "mujhe pair me cramp ho raha hai",
+        "answer": "ORS piyo aur magnesium supplement le sakte ho."
+    },
+    {
+        "question": "mujhe joints me dard hai",
+        "answer": "Pain relief gel lagao aur ibuprofen le lo."
+    },
+    {
+        "question": "mujhe back stiff lag raha hai",
+        "answer": "Heating pad use karo aur paracetamol le lo."
+    },
+    {
+        "question": "mujhe halka bukhar lag raha hai",
+        "answer": "Paracetamol 500mg le sakte ho aur rest karo."
+    },
+    {
+        "question": "mujhe gale me jalan ho rahi hai",
+        "answer": "Warm water piyo aur Strepsils lozenges use karo."
+    },
+    {
+        "question": "mujhe chest me jamaav hai",
+        "answer": "Aap Ascoril jaise expectorant syrup le sakte ho."
+    },
+    {
+        "question": "mujhe neend nahi aa rahi",
+        "answer": "Melatonin try karo aur phone kam use karo."
+    },
+    {
+        "question": "mujhe gas ki problem ho rahi hai",
+        "answer": "Aap simethicone tablet le lo."
+    },
+    {
+        "question": "mujhe seene me jalan ho rahi hai",
+        "answer": "Aap Digene ya Eno le sakte ho."
+    },
+    {
+        "question": "mujhe aankhon me khujli ho rahi hai",
+        "answer": "Aap lubricating eye drops use kar sakte ho."
+    },
+    {
+        "question": "mujhe naak me jalan ho rahi hai",
+        "answer": "Aap saline nasal spray use karo."
+    },
+    {
+        "question": "mujhe kaan me dard ho raha hai",
+        "answer": "Aap paracetamol le lo aur kaan ko dry rakho."
+    },
+    {
+        "question": "mujhe shoulder me pain ho raha hai",
+        "answer": "Hot pack lagao aur ibuprofen lo."
+    },
+    {
+        "question": "mujhe gardan me stiffness hai",
+        "answer": "Warm compress karo aur Myosone jaise muscle relaxant le sakte ho."
+    },
+    {
+        "question": "mujhe allergy jaisi feeling ho rahi hai",
+        "answer": "Aap cetirizine ek tablet le sakte ho."
+    },
+    {
+        "question": "I am having severe headache",
+        "answer": "You can take ibuprofen or paracetamol and rest in a dark room."
+    },
+    {
+        "question": "I feel chest tightness",
+        "answer": "You may take steam inhalation and avoid cold air; seek urgent care if severe."
+    },
+    {
+        "question": "I have mild ear blockage",
+        "answer": "You can use steam inhalation or a saline nasal spray."
+    },
+    {
+        "question": "I have itchy skin",
+        "answer": "You can take cetirizine and apply calamine lotion."
+    },
+    {
+        "question": "I am feeling anxious",
+        "answer": "You can take chamomile tea, deep breaths, and try to relax."
+    },
+    {
+        "question": "I have gas pains",
+        "answer": "You can take simethicone and avoid heavy meals."
+    },
+    {
+        "question": "I have constipation",
+        "answer": "You can take Isabgol husk with warm water or a mild laxative."
+    },
+    {
+        "question": "I have severe acidity",
+        "answer": "You can take Pantoprazole 40mg before food."
+    },
+    {
+        "question": "I have mild fever with chills",
+        "answer": "You can take paracetamol and stay hydrated."
+    },
+    {
+        "question": "I have burning urination",
+        "answer": "Drink lots of water and take a urinary alkalizer like Cital."
+    },
+    {
+        "question": "I have runny nose",
+        "answer": "You can take cetirizine once daily."
+    },
+    {
+        "question": "I have mouth ulcers",
+        "answer": "You can apply glycerin or take vitamin B-complex."
+    },
+    {
+        "question": "I have sinus pressure",
+        "answer": "You can take steam inhalation and cetirizine."
+    },
+    {
+        "question": "I have throat dryness",
+        "answer": "Drink warm water and use lozenges."
+    },
+    {
+        "question": "I feel weakness after fever",
+        "answer": "You can take ORS and vitamin supplements."
+    },
+    {
+        "question": "I have bloating after eating",
+        "answer": "You can take digestive enzyme tablets."
+    },
+    {
+        "question": "I have muscle stiffness",
+        "answer": "You can take a warm bath and use muscle relaxant spray."
+    },
+    {
+        "question": "I have irritation in throat",
+        "answer": "You can gargle with warm salt water and take lozenges."
+    },
+    {
+        "question": "I have chest discomfort after eating",
+        "answer": "You can take antacid syrups like Digene."
+    },
+    {
+        "question": "I have dry cough",
+        "answer": "You can take cough syrup like Grilinctus-D."
+    },
+    {
+        "question": "mujhe bahut tez sar dard ho raha hai",
+        "answer": "Aap ibuprofen ya paracetamol le sakte ho aur dark room me rest karo."
+    },
+    {
+        "question": "mujhe seene me tightness lag rahi hai",
+        "answer": "Aap steam le sakte ho; agar zyada ho to doctor ko dikhao."
+    },
+    {
+        "question": "mujhe kaan band lag raha hai",
+        "answer": "Aap steam lo ya saline nasal spray use karo."
+    },
+    {
+        "question": "mujhe skin me khujli ho rahi hai",
+        "answer": "Aap cetirizine lo aur calamine lotion lagao."
+    },
+    {
+        "question": "mujhe anxiety ho rahi hai",
+        "answer": "Deep breathing karo, chamomile tea piyo, thoda relax karo."
+    },
+    {
+        "question": "mujhe pet me gas ka dard hai",
+        "answer": "Simethicone lo aur heavy food avoid karo."
+    },
+    {
+        "question": "mujhe constipation ho rahi hai",
+        "answer": "Isabgol husk garam paani ke sath lo."
+    },
+    {
+        "question": "mujhe bahut acidity ho rahi hai",
+        "answer": "Aap Pantoprazole 40mg khaane se pehle le sakte ho."
+    },
+    {
+        "question": "mujhe bukhar ke sath thand lag rahi hai",
+        "answer": "Paracetamol lo aur hydration maintain karo."
+    },
+    {
+        "question": "mujhe peshab me jalan ho rahi hai",
+        "answer": "Zyada paani piyo aur Cital jaise urinary alkalizer le lo."
+    },
+    {
+        "question": "mujhe naak beh rahi hai",
+        "answer": "Aap cetirizine le sakte ho."
+    },
+    {
+        "question": "mujhe muh me chhale ho rahe hain",
+        "answer": "Aap glycerin lagao aur B-complex le sakte ho."
+    },
+    {
+        "question": "mujhe sinus pressure feel ho raha hai",
+        "answer": "Aap steam lo aur cetirizine le lo."
+    },
+    {
+        "question": "mujhe gala sukh raha hai",
+        "answer": "Garam paani piyo aur lozenges use karo."
+    },
+    {
+        "question": "mujhe bukhar ke baad kamzori hai",
+        "answer": "ORS piyo aur vitamin supplements lo."
+    },
+    {
+        "question": "mujhe khane ke baad bloating ho rahi hai",
+        "answer": "Digestive enzyme tablet le sakte ho."
+    },
+    {
+        "question": "mujhe muscles stiff lag rahe hain",
+        "answer": "Garam paani se nahaao aur muscle spray use karo."
+    },
+    {
+        "question": "mujhe gale me irritation ho rahi hai",
+        "answer": "Salt water gargle karo aur lozenges lo."
+    },
+    {
+        "question": "mujhe khane ke baad seene me discomfort hai",
+        "answer": "Aap antacid syrup jaise Digene le lo."
+    },
+    {
+        "question": "mujhe sukhi khansi ho rahi hai",
+        "answer": "Aap Grilinctus-D jaise cough syrup le sakte ho."
+    },
+    {
+        "question": "I have stomach heaviness",
+        "answer": "You can take digestive enzymes and avoid oily food."
+    },
+    {
+        "question": "I have a burning throat",
+        "answer": "You can drink warm water and take antacid syrup."
+    },
+    {
+        "question": "I have mild ear itching",
+        "answer": "You can use olive oil drops lightly; avoid scratching."
+    },
+    {
+        "question": "I have headache after waking up",
+        "answer": "You can take paracetamol and hydrate yourself well."
+    },
+    {
+        "question": "I have swelling in feet",
+        "answer": "You can keep your legs elevated and reduce salt intake."
+    },
+    {
+        "question": "I have sharp back pain",
+        "answer": "You can take ibuprofen and apply a warm compress."
+    },
+    {
+        "question": "I have stomach infection symptoms",
+        "answer": "You can take ORS and probiotics like Econorm."
+    },
+    {
+        "question": "I have vomiting with weakness",
+        "answer": "You can take Ondansetron 4mg and ORS solution."
+    },
+    {
+        "question": "I have sore muscles after workout",
+        "answer": "You can take ibuprofen and do light stretching."
+    },
+    {
+        "question": "I have itching on hands",
+        "answer": "You can apply calamine lotion and take cetirizine."
+    },
+    {
+        "question": "I have dry lips",
+        "answer": "You can use lip balm and drink more water."
+    },
+    {
+        "question": "I have swollen gums",
+        "answer": "You can rinse with warm salt water and take paracetamol."
+    },
+    {
+        "question": "I have tooth sensitivity",
+        "answer": "You can use Sensodyne toothpaste for relief."
+    },
+    {
+        "question": "I have mild skin rash",
+        "answer": "You can apply calamine lotion and take cetirizine."
+    },
+    {
+        "question": "I have tight shoulders",
+        "answer": "You can apply a warm compress and use a pain relief spray."
+    },
+    {
+        "question": "I feel gassy after meals",
+        "answer": "You can take simethicone and avoid carbonated drinks."
+    },
+    {
+        "question": "I have back muscle spasm",
+        "answer": "You can take a muscle relaxant like Myosone."
+    },
+    {
+        "question": "I have heaviness in head",
+        "answer": "You can take paracetamol and rest properly."
+    },
+    {
+        "question": "I have cracked heels",
+        "answer": "You can use moisturizing heel cream twice a day."
+    },
+    {
+        "question": "I have itching on scalp",
+        "answer": "You can use anti-dandruff shampoo like Ketoconazole."
+    },
+    {
+        "question": "mujhe pet me heaviness lag rahi hai",
+        "answer": "Aap digestive enzyme le sakte ho aur oily food avoid karo."
+    },
+    {
+        "question": "mujhe gala jal raha hai",
+        "answer": "Garam paani piyo aur antacid syrup le lo."
+    },
+    {
+        "question": "mujhe kaan me halka itching ho raha hai",
+        "answer": "Thoda olive oil drop use kar sakte ho; scratch mat karo."
+    },
+    {
+        "question": "mujhe subah uth kar headache ho jata hai",
+        "answer": "Paracetamol le lo aur hydration maintain karo."
+    },
+    {
+        "question": "mujhe pair me sujan ho rahi hai",
+        "answer": "Pair ko elevate karo aur namak kam lo."
+    },
+    {
+        "question": "mujhe achanak back pain ho raha hai",
+        "answer": "Ibuprofen le lo aur warm compress lagao."
+    },
+    {
+        "question": "mujhe stomach infection jaisa lag raha hai",
+        "answer": "ORS piyo aur Econorm probiotic le sakte ho."
+    },
+    {
+        "question": "mujhe ulti ke sath kamzori ho rahi hai",
+        "answer": "Ondansetron 4mg lo aur ORS piyo."
+    },
+    {
+        "question": "mujhe workout ke baad muscles dukh rahe hain",
+        "answer": "Ibuprofen le lo aur stretching karo."
+    },
+    {
+        "question": "mujhe haathon me itching ho rahi hai",
+        "answer": "Calamine lotion lagao aur cetirizine le lo."
+    },
+    {
+        "question": "mujhe hont sukh rahe hain",
+        "answer": "Lip balm lagao aur paani zyada piyo."
+    },
+    {
+        "question": "mujhe masoodon me sujan ho rahi hai",
+        "answer": "Garam namak paani se gargle karo aur paracetamol lo."
+    },
+    {
+        "question": "mujhe daant me sensitivity ho rahi hai",
+        "answer": "Sensodyne toothpaste use karo."
+    },
+    {
+        "question": "mujhe halki skin rash ho rahi hai",
+        "answer": "Calamine lotion lagao aur cetirizine lo."
+    },
+    {
+        "question": "mujhe shoulders tight lag rahe hain",
+        "answer": "Warm compress aur pain relief spray use karo."
+    },
+    {
+        "question": "mujhe khana khane ke baad gas ho rahi hai",
+        "answer": "Simethicone lo aur soda waale drinks avoid karo."
+    },
+    {
+        "question": "mujhe back muscle spasm hai",
+        "answer": "Myosone jaise muscle relaxant le sakte ho."
+    },
+    {
+        "question": "mujhe sir bhaari bhaari lag raha hai",
+        "answer": "Paracetamol lo aur thoda rest karo."
+    },
+    {
+        "question": "mujhe pair ki ediyan phat rahi hain",
+        "answer": "Moisturizing heel cream roz lagao."
+    },
+    {
+        "question": "mujhe scalp me itching ho rahi hai",
+        "answer": "Ketoconazole anti-dandruff shampoo use karo."
+    },
+    {
+        "question": "I have nose dryness",
+        "answer": "You can use saline nasal spray and stay hydrated."
+    },
+    {
+        "question": "I have stomach tightening",
+        "answer": "You can take dicyclomine to reduce cramps."
+    },
+    {
+        "question": "I have mild chest pain after eating",
+        "answer": "You can take antacid like Digene or Eno."
+    },
+    {
+        "question": "I have itchy throat",
+        "answer": "You can take lozenges and warm water gargles."
+    },
+    {
+        "question": "I have gas after drinking milk",
+        "answer": "You can take lactase enzyme tablets."
+    },
+    {
+        "question": "I have bloating in the evening",
+        "answer": "You can take simethicone and avoid heavy meals."
+    },
+    {
+        "question": "I feel dehydrated",
+        "answer": "You can drink ORS solution and water."
+    },
+    {
+        "question": "I feel jittery",
+        "answer": "You can rest, hydrate, and avoid caffeine."
+    },
+    {
+        "question": "I have burning eyes",
+        "answer": "Use lubricating eye drops like Refresh tears."
+    },
+    {
+        "question": "I have itchy ears",
+        "answer": "You can use mild oil drops; avoid using earbuds."
+    },
+    {
+        "question": "I have constipation in morning",
+        "answer": "You can take Isabgol with warm milk at night."
+    },
+    {
+        "question": "I have difficulty digesting food",
+        "answer": "You can take digestive enzyme tablets."
+    },
+    {
+        "question": "I have chest cough",
+        "answer": "You can take an expectorant like Ascoril."
+    },
+    {
+        "question": "I have dryness in mouth",
+        "answer": "Drink more water and use saliva substitute gel if needed."
+    },
+    {
+        "question": "I have mild urinary burning",
+        "answer": "Drink more water and take an alkalizer like Cital."
+    },
+    {
+        "question": "I have tingling in hands",
+        "answer": "Take Vitamin B-complex and rest."
+    },
+    {
+        "question": "I have itching on feet",
+        "answer": "Use antifungal powder like Candid."
+    },
+    {
+        "question": "I have pimples on forehead",
+        "answer": "Use salicylic acid face wash twice a day."
+    },
+    {
+        "question": "I have dryness on skin",
+        "answer": "Apply moisturizer frequently and drink water."
+    },
+    {
+        "question": "I have restlessness",
+        "answer": "You can try chamomile tea or melatonin for sleep."
+    },
+    {
+        "question": "mujhe naak sukh rahi hai",
+        "answer": "Aap saline nasal spray use karo aur paani piyo."
+    },
+    {
+        "question": "mujhe pet me tightness ho rahi hai",
+        "answer": "Aap dicyclomine le sakte ho cramps ke liye."
+    },
+    {
+        "question": "mujhe khane ke baad chest me halka pain ho raha hai",
+        "answer": "Aap Digene ya Eno le lo."
+    },
+    {
+        "question": "mujhe gale me khujli ho rahi hai",
+        "answer": "Lozenges lo aur warm water gargle karo."
+    },
+    {
+        "question": "mujhe doodh pine ke baad gas ho rahi hai",
+        "answer": "Lactase tablet le sakte ho."
+    },
+    {
+        "question": "mujhe shaam me bloating ho rahi hai",
+        "answer": "Simethicone le lo aur heavy food avoid karo."
+    },
+    {
+        "question": "mujhe dehydration lag raha hai",
+        "answer": "ORS piyo aur paani zyada lo."
+    },
+    {
+        "question": "mujhe hilki si ghabrahat ho rahi hai",
+        "answer": "Rest karo, paani piyo aur caffeine avoid karo."
+    },
+    {
+        "question": "mujhe aankhon me jalan ho rahi hai",
+        "answer": "Lubricating eye drops jaise Refresh tears use karo."
+    },
+    {
+        "question": "mujhe kaan me khujli ho rahi hai",
+        "answer": "Thoda tel ke drops use kar sakte ho; earbuds mat lagao."
+    },
+    {
+        "question": "mujhe subah constipation hoti hai",
+        "answer": "Raat ko Isabgol garam doodh ke sath lo."
+    },
+    {
+        "question": "mujhe khana digest nahi ho raha hai",
+        "answer": "Digestive enzyme tablet le lo."
+    },
+    {
+        "question": "mujhe chest me khansi hai",
+        "answer": "Ascoril jaise expectorant syrup lo."
+    },
+    {
+        "question": "mujhe muh me sukhapan ho raha hai",
+        "answer": "Paani piyo aur saliva gel ka use karo."
+    },
+    {
+        "question": "mujhe peshab me halki jalan hai",
+        "answer": "Paani zyada piyo aur Cital jaise alkalizer lo."
+    },
+    {
+        "question": "mujhe haath me jhanjhanahat ho rahi hai",
+        "answer": "Vitamin B-complex le lo."
+    },
+    {
+        "question": "mujhe pair me itching ho rahi hai",
+        "answer": "Candid antifungal powder lagao."
+    },
+    {
+        "question": "mujhe forehead par pimples ho rahe hain",
+        "answer": "Salicylic acid face wash use karo."
+    },
+    {
+        "question": "mujhe skin dry ho rahi hai",
+        "answer": "Moisturizer lagao aur paani piyo."
+    },
+    {
+        "question": "mujhe bechaini ho rahi hai",
+        "answer": "Chamomile tea piyo ya melatonin try karo."
+    },
+    {
+  "question": "I have chest pain",
+  "answer": "Chest pain can be serious. Take rest immediately. Avoid exertion. If pain persists, visit a Cardiologist as soon as possible.",
+  "tags": ["Cardiologist"]
+},
+{
+  "question": "seene me dard ho raha hai",
+  "answer": "Seene ka dard dil se related ho sakta hai. Turant rest karein. Agar dard zyada ho raha hai, toh Cardiologist ko dikhayen.",
+  "tags": ["Cardiologist"]
+},
+{
+  "question": "my heartbeat is very fast",
+  "answer": "Fast heartbeat may be due to stress or dehydration. Drink water and relax. If it continues, please consult a Cardiologist.",
+  "tags": ["Cardiologist"]
+},
+{
+  "question": "meri dhadkan bahut tez ho rahi hai",
+  "answer": "Dhadkan tez hona anxiety, dehydration ya heart issue ho sakta hai. Relax karein. Agar theek na ho, Cardiologist ko milen.",
+  "tags": ["Cardiologist"]
+},
+{
+  "question": "I feel pressure in my chest",
+  "answer": "Chest pressure can be a sign of a heart problem. Avoid physical activity and visit a Cardiologist soon.",
+  "tags": ["Cardiologist"]
+}
+,
+{
+  "question": "I have red spots on my skin",
+  "answer": "Red spots can be due to allergy or infection. You may apply calamine lotion. For persistent symptoms, visit a Dermatologist.",
+  "tags": ["Dermatologist"]
+},
+{
+  "question": "mere sharir par lal daane nikal rahe hain",
+  "answer": "Lal daane allergy ya infection ki wajah se ho sakte hain. Calamine lotion lagayein. Zyada hone par Dermatologist ko dikhayen.",
+  "tags": ["Dermatologist"]
+},
+{
+  "question": "my skin is itching a lot",
+  "answer": "Itching may be due to dryness or allergy. Apply moisturizer and avoid scratching. Consult a Dermatologist if itching continues.",
+  "tags": ["Dermatologist"]
+},
+{
+  "question": "bahut khujli ho rahi hai",
+  "answer": "Khujli dryness ya allergy ki wajah se ho sakti hai. Moisturizer lagayein. Agar ruk na rahi ho, Dermatologist se milen.",
+  "tags": ["Dermatologist"]
+},
+{
+  "question": "I have a fungal infection",
+  "answer": "Keep the area dry and use an antifungal cream like clotrimazole. If it spreads, meet a Dermatologist.",
+  "tags": ["Dermatologist"]
+}
+,
+{
+  "question": "I have a severe headache",
+  "answer": "Take rest, drink water, and avoid screen time. You may take paracetamol. If headaches are frequent, visit a Neurologist.",
+  "tags": ["Neurologist"]
+},
+{
+  "question": "mujhe bahut tez sir dard ho raha hai",
+  "answer": "Tez sir dard migraine ya stress ki wajah se ho sakta hai. Rest karein. Agar roz hota hai, Neurologist ko dikhayen.",
+  "tags": ["Neurologist"]
+},
+{
+  "question": "I feel dizzy and lightheaded",
+  "answer": "Dizziness can be due to low BP or dehydration. Sit down and drink water. If it repeats, consult a Neurologist.",
+  "tags": ["Neurologist"]
+},
+{
+  "question": "mujhe chakkar aa rahe hain",
+  "answer": "Chakkar dehydration ya BP ke kaaran ho sakte hain. Pani piyen. Agar bar-bar ho raha hai, Neurologist ko milen.",
+  "tags": ["Neurologist"]
+},
+{
+  "question": "I have tingling in my hands",
+  "answer": "Tingling can be due to nerve compression. Do mild stretching. If it persists, visit a Neurologist.",
+  "tags": ["Neurologist"]
+}
+,
+{
+  "question": "I am having stomach pain",
+  "answer": "Stomach pain may be due to gas or infection. You may take antacid gel. If pain is severe, meet a Gastroenterologist.",
+  "tags": ["Gastroenterologist"]
+},
+{
+  "question": "pet me dard ho raha hai",
+  "answer": "Pet ka dard acidity, gas ya infection se ho sakta hai. Gelusil le sakte hain. Zyada dard ho toh Gastroenterologist ko dikhayen.",
+  "tags": ["Gastroenterologist"]
+},
+{
+  "question": "I am vomiting again and again",
+  "answer": "Take ORS to prevent dehydration. Avoid oily food. If vomiting continues, consult a Gastroenterologist.",
+  "tags": ["Gastroenterologist"]
+},
+{
+  "question": "mujhe ulti aa rahi hai",
+  "answer": "ORS piyen aur halka khana khayein. Agar ulti ruk nahi rahi toh Gastroenterologist ko milen.",
+  "tags": ["Gastroenterologist"]
+},
+{
+  "question": "I am having acidity",
+  "answer": "Avoid spicy foods and take an antacid like Digene. If frequent acidity persists, see a Gastroenterologist.",
+  "tags": ["Gastroenterologist"]
+}
+,{
+  "question": "I am having cough and breathing trouble",
+  "answer": "This may be a lung infection. Take steam inhalation. If breathlessness increases, meet a Pulmonologist immediately.",
+  "tags": ["Pulmonologist"]
+},
+{
+  "question": "mujhe saans lene me dikkat ho rahi hai",
+  "answer": "Yeh lungs infection ya allergy ka sign ho sakta hai. Steam lein aur Pulmonologist ko jald dikhayen.",
+  "tags": ["Pulmonologist"]
+},
+{
+  "question": "I have chest congestion",
+  "answer": "Drink warm fluids and inhale steam. If congestion persists, visit a Pulmonologist.",
+  "tags": ["Pulmonologist"]
+},
+{
+  "question": "mujhe bahut khansi ho rahi hai",
+  "answer": "Khansi viral infection se ho sakti hai. Steam lein aur warm water piyen. Agar khansi ruk na rahi ho, Pulmonologist ko dikhayen.",
+  "tags": ["Pulmonologist"]
+},
+{
+  "question": "I have wheezing",
+  "answer": "Wheezing may be due to asthma or allergy. Avoid dust and meet a Pulmonologist soon.",
+  "tags": ["Pulmonologist"]
+}
+,
+{
+  "question": "I feel very stressed",
+  "answer": "Take deep breaths and try to rest. Avoid overthinking. If stress affects daily life, consult a Psychiatrist.",
+  "tags": ["Psychiatrist"]
+},
+{
+  "question": "mujhe bahut tension ho rahi hai",
+  "answer": "Tension kam karne ke liye deep breathing karein. Agar tension zyada ho, Psychiatrist ko milen.",
+  "tags": ["Psychiatrist"]
+},
+{
+  "question": "I am having panic attacks",
+  "answer": "Sit down, breathe deeply and stay calm. If panic attacks repeat, visit a Psychiatrist.",
+  "tags": ["Psychiatrist"]
+},
+{
+  "question": "mera mann bahut udaas hai",
+  "answer": "Ho sakta hai mood low ho. Relax karein. Agar mood roz udaas rehta hai, Psychiatrist se baat karein.",
+  "tags": ["Psychiatrist"]
+},
+{
+  "question": "I am unable to sleep",
+  "answer": "Maintain a sleep routine, avoid caffeine at night. If insomnia continues, consult a Psychiatrist.",
+  "tags": ["Psychiatrist"]
+}
+,
+{
+  "question": "hi",
+  "answer": "Hello! How can I help you today?",
+  "tags": ["greeting"]
+},
+{
+  "question": "hello",
+  "answer": "Hi there! What can I assist you with?",
+  "tags": ["greeting"]
+},
+{
+  "question": "hey",
+  "answer": "Hey! How can I support you today?",
+  "tags": ["greeting"]
+},
+{
+  "question": "hii",
+  "answer": "Hello! I’m here to help you. 🙂",
+  "tags": ["greeting"]
+},
+{
+  "question": "namaste",
+  "answer": "Namaste 🙏 Main aapki madad ke liye yahan hoon.",
+  "tags": ["greeting"]
+},
+{
+  "question": "good morning",
+  "answer": "Good morning! Hope you are doing well. How can I help?",
+  "tags": ["greeting"]
+},
+{
+  "question": "good night",
+  "answer": "Good night! Take care and sleep well.",
+  "tags": ["greeting"]
+}
+,{
+  "question": "who are you",
+  "answer": "I am MediBot, your health assistant created by CORA Health.",
+  "tags": ["bot-info"]
+},
+{
+  "question": "what is your name",
+  "answer": "My name is MediBot! How can I help you today?",
+  "tags": ["bot-info"]
+},
+{
+  "question": "tumhara naam kya hai",
+  "answer": "Mera naam MediBot hai! Aapki madad ke liye hamesha ready. 😊",
+  "tags": ["bot-info"]
+},
+{
+  "question": "aap kaun ho",
+  "answer": "Main MediBot hoon, CORA Health ka digital health assistant.",
+  "tags": ["bot-info"]
+}
+,{
+  "question": "what is cora health",
+  "answer": "CORA Health is a smart healthcare platform that helps you track medicine reminders, connect with doctors through DocMap, and manage family health records.",
+  "tags": ["cora-info"]
+},
+{
+  "question": "cora health kya hai",
+  "answer": "CORA Health ek smart healthcare platform hai jisme aap medicine reminders, DocMap doctor search, aur family health records manage kar sakte hain.",
+  "tags": ["cora-info"]
+},
+{
+  "question": "who created cora health",
+  "answer": "CORA Health was created by the CORA Development Team to make healthcare simple and accessible.",
+  "tags": ["cora-info"]
+}
+,{
+  "question": "what do you do",
+  "answer": "I help you understand symptoms, guide you to doctors, and provide general health information.",
+  "tags": ["bot-function"]
+},
+{
+  "question": "what can you do",
+  "answer": "I can answer basic health questions, give symptom guidance, and direct you to the right doctor using DocMap.",
+  "tags": ["bot-function"]
+},
+{
+  "question": "tum kya kar sakte ho",
+  "answer": "Main aapke symptoms samajh kar basic health guidance de sakta hoon aur sahi doctor tak route kar sakta hoon.",
+  "tags": ["bot-function"]
+}
+,{
+  "question": "how to find doctor",
+  "answer": "You can use the DocMap page. Choose a specialization and enter a pincode or allow location access.",
+  "tags": ["docmap"]
+},
+{
+  "question": "doctor kaise dhundhu",
+  "answer": "Aap DocMap page me jaakar specialization select karke pincode enter kar sakte hain. Map par doctors show honge.",
+  "tags": ["docmap"]
+},
+{
+  "question": "how to add member",
+  "answer": "Go to My Account → Add Member. Fill the details and save to create a health profile.",
+  "tags": ["member"]
+},
+{
+  "question": "member kaise add kare",
+  "answer": "My Account page me jaakar Add Member choose karein aur details fill karke save kar dein.",
+  "tags": ["member"]
+},
+{
+  "question": "how to set medicine reminders",
+  "answer": "Add a member and enter their medicine schedule. CORA will handle reminders automatically.",
+  "tags": ["reminder"]
+},
+{
+  "question": "reminder kaise lagaye",
+  "answer": "Member add karte waqt medicine timings set kar dijiye. CORA aapko automatic reminders bhejega.",
+  "tags": ["reminder"]
+}
+,{
+  "question": "thank you",
+  "answer": "You're welcome! Let me know if you need more help. 😊",
+  "tags": ["emotion"]
+},
+{
+  "question": "thanks",
+  "answer": "Happy to help! 💙",
+  "tags": ["emotion"]
+},
+{
+  "question": "love you",
+  "answer": "I appreciate your kindness! How can I assist you further?",
+  "tags": ["emotion"]
+},
+{
+  "question": "bye",
+  "answer": "Goodbye! Take care. 👋",
+  "tags": ["emotion"]
+},
+{
+  "question": "ok",
+  "answer": "Alright! Let me know if you need anything else.",
+  "tags": ["emotion"]
+},
+{
+  "question": "haan",
+  "answer": "Ji! Bataye kaise madad kar sakta hoon?",
+  "tags": ["emotion"]
+}
+
+]

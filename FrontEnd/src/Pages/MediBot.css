@@ -1,0 +1,312 @@
+
+.medi-page {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 1rem;
+  background: transparent;
+  height: 75vh;
+  font-family: "Inter", sans-serif;
+}
+
+/* wrapper card */
+.medi-wrapper {
+  width: 90%;
+  height: 65vh;
+  max-width: 850px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  padding: 18px;
+  box-sizing: border-box;
+}
+
+/* Title */
+.mb-title {
+  margin: 0 0 12px 0;
+  font-size: 1.25rem;
+  padding-left: 6px;
+  color: #1f3b2e;
+}
+
+/* ===========================
+   Chat Layout
+   =========================== */
+.chat-area {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* Scrollable chat box */
+.chat-box {
+  background: #f6f6f6;
+  border-radius: 10px;
+  padding: 14px;
+  min-height: 260px;
+  max-height: 420px;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+/* message row */
+.chat-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+/* Sender label */
+.chat-row .label {
+  min-width: 70px;
+  font-weight: 700;
+  color: #0b2b1f;
+  font-size: 0.95rem;
+  padding-top: 6px;
+}
+
+/* Bubble base */
+.bubble {
+  max-width: calc(100% - 90px);
+  border-radius: 8px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+/* USER MESSAGE (Right-Aligned) */
+.chat-row.user {
+  flex-direction: row-reverse;
+}
+.chat-row.user .label {
+  text-align: right;
+  color: #07361f;
+}
+.chat-row.user .bubble {
+  background: #dfffe0;
+  border: 1px solid rgba(3,83,24,0.06);
+  border-top-right-radius: 14px;
+}
+.chat-row.user .bubble-text {
+  color: #072d14;
+}
+
+/* BOT MESSAGE (Left-Aligned) */
+.chat-row.bot .bubble {
+  background: #fde9c9;
+  border: 1px solid rgba(120,78,0,0.08);
+  border-top-left-radius: 14px;
+}
+.chat-row.bot .bubble-text {
+  color: #2a1b00;
+}
+
+/* bubble text */
+.bubble-text {
+  font-size: 0.98rem;
+  line-height: 1.45;
+  white-space: pre-wrap;
+}
+
+/* ===========================
+   INPUT SECTION (Updated)
+   =========================== */
+.input-row {
+  display: flex;
+  gap: 10px;
+  margin-top: 12px;
+  align-items: center;
+  padding: 8px 0;
+}
+
+/* BIGGER INPUT BOX */
+.input-row input[type="text"] {
+  flex: 1;
+  border: 1px solid #d7d7d7;
+  padding: 14px 16px;     /* bigger feel */
+  border-radius: 12px;
+  font-size: 1.05rem;
+  background: #ffffff;
+  min-height: 52px;       /* taller box */
+  box-sizing: border-box;
+}
+
+/* focus glow */
+.input-row input[type="text"]:focus {
+  border-color: #9fe7a7;
+  box-shadow: 0 0 0 4px rgba(159,231,167,0.15);
+}
+
+/* SMALLER SEND BUTTON */
+.input-row button {
+  background: #0b5b34;
+  color: white;
+  border: none;
+  padding: 10px 14px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 0.9rem;  
+  min-width: 70px; /* Smaller button */
+}
+
+.input-row button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* ===========================
+   SUGGESTION CTA (specialist redirect)
+   =========================== */
+.medi-page .suggestion-cta {
+  margin-top: 10px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 10px;
+  background: linear-gradient(90deg, rgba(255,255,255,0.85), rgba(250,250,250,0.6));
+  box-shadow: 0 4px 14px rgba(0,0,0,0.05);
+}
+
+.medi-page .suggestion-cta .cta-text {
+  font-size: 0.95rem;
+  color: #1b472f;
+}
+
+.medi-page .suggestion-cta .cta-button {
+  background: #0b5b34;
+  color: #fff;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 700;
+}
+.medi-page .suggestion-cta .cta-button:hover {
+  transform: translateY(-1px);
+}
+
+
+
+/* ---------- Immediate fix: compact Send + larger text area ---------- */
+/* IMPORTANT: put this at the END of your CSS file so it overrides earlier rules */
+
+.medi-page .chat-box,
+.medi-page .chat-box textarea,
+.medi-page textarea,
+.medi-page .chat-textarea {
+  width: 100% !important;
+  min-height: 320px !important;   /* larger typing/display area */
+  max-height: 460px !important;
+  padding: 18px !important;
+  box-sizing: border-box !important;
+  font-size: 1.02rem !important;
+}
+
+/* Input row layout: avatar (left) + expanding input + compact send */
+.medi-page .input-row {
+  display: flex !important;
+  align-items: center !important;
+  gap: 12px !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  padding: 8px 0 !important;
+}
+
+/* Left small square / avatar */
+.medi-page .input-row .label,
+.medi-page .input-row .avatar,
+.medi-page .input-row .user-icon,
+.medi-page .input-row .label-avatar {
+  flex: 0 0 52px !important;
+  width: 52px !important;
+  height: 52px !important;
+  min-width: 52px !important;
+  border-radius: 10px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  box-sizing: border-box !important;
+  font-weight: 700 !important;
+}
+
+/* Text input (inline small input, not the big chat-box) */
+.medi-page .input-row input[type="text"],
+.medi-page .input-row .inline-input {
+  flex: 1 1 auto !important;      /* expand to fill remaining space */
+  min-width: 0 !important;        /* allow shrinking on narrow screens */
+  padding: 12px 14px !important;
+  font-size: 1rem !important;
+  border-radius: 10px !important;
+  box-sizing: border-box !important;
+}
+
+/* Send button: stop stretching, smaller width, fixed maximum */
+.medi-page .input-row button {
+  flex: 0 0 auto !important;      /* don't stretch */
+  width: 180px !important;        /* explicit, reasonable width on desktops/tablets */
+  max-width: 32% !important;      /* keep proportional on narrow screens */
+  min-width: 96px !important;     /* keep tappable */
+  padding: 10px 14px !important;
+  font-size: 0.95rem !important;
+  border-radius: 10px !important;
+  box-shadow: none !important;
+}
+
+/* Tighter button on smaller screens */
+@media (max-width: 680px) {
+  .medi-page .chat-box,
+  .medi-page .chat-box textarea,
+  .medi-page textarea,
+  .medi-page .chat-textarea {
+    min-height: 300px !important;
+    max-height: 420px !important;
+    padding: 16px !important;
+  }
+
+  .medi-page .input-row button {
+    width: 140px !important;
+    max-width: 40% !important;
+    min-width: 88px !important;
+    padding: 9px 12px !important;
+    font-size: 0.92rem !important;
+  }
+
+  .medi-page .input-row .label,
+  .medi-page .input-row .avatar {
+    flex: 0 0 48px !important;
+    width: 48px !important;
+    height: 48px !important;
+    min-width: 48px !important;
+  }
+}
+
+/* Tiny phones */
+@media (max-width: 420px) {
+  .medi-page .chat-box,
+  .medi-page .chat-box textarea,
+  .medi-page textarea,
+  .medi-page .chat-textarea {
+    min-height: 260px !important;
+    max-height: 380px !important;
+    padding: 14px !important;
+    font-size: 1rem !important;
+  }
+
+  .medi-page .input-row {
+    gap: 8px !important;
+  }
+
+  .medi-page .input-row button {
+    width: 120px !important;
+    max-width: 55% !important;
+    min-width: 80px !important;
+    padding: 8px 10px !important;
+    font-size: 0.88rem !important;
+  }
+
+}
+
+/* small polish */
+.medi-page .input-row button:disabled { opacity: 0.65 !important; cursor: not-allowed !important; }

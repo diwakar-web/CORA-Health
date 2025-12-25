@@ -1,0 +1,128 @@
+.main {
+    width: 100%;
+    height: 100vh;
+       display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    color: #dad7cd
+}
+
+.main h1 {
+    text-align: center;
+}
+
+.main .main-button {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.main .main-button button {
+    width: 30%;
+    height: 15%;
+    color: #dad7cd;
+    background-color: #588157;
+    font-size: 2em;
+    border-radius: 100px;
+    border: 6px solid #dad7cd;
+}
+
+.main .main-button button:hover {
+    background-color: #dad7cd;
+    border: 6px solid #588157;
+    color: #3a5a40;
+}
+@media (max-width: 768px) {
+  .main .main-button button {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .main .main-button button {
+    padding: 8px 16px;
+    font-size: 12px;
+  }
+}
+
+
+.ribbon {
+    width: 100%;
+    overflow: hidden;
+    background: #dad7cd;
+    color: #3a5a40;
+    white-space: nowrap;
+    font-size: 1rem;
+    padding: 8px 0;
+    z-index: 9999;
+    margin-top: -90px;
+}
+
+.ribbon-track {
+    display: flex;
+    width: max-content;
+    animation: scroll 20s linear infinite;
+}
+
+.ribbon-content {
+    padding-right: 4rem;
+}
+
+/* Continuous scroll */
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+
+.main .more {
+  width: 100%;
+  padding: 40px 20px;
+  background-color: #588157; /* optional background */
+  color:#dad7cd;
+  display: flex;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  border:4px solid black
+}
+.main .more:hover{
+    background-color: #a3b18a;
+    color: #3a5a40;
+    border:4px solid #dad7cd
+}
+
+
+/* 📱 Responsive styles */
+@media (max-width: 992px) {
+  .more h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .more {
+    padding: 30px 15px;
+  }
+
+  .more h1 {
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .more h1 {
+    font-size: 1.3rem;
+  }
+}

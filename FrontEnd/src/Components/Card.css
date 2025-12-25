@@ -1,0 +1,51 @@
+
+.card a{
+    background-color: #344e41;
+    align-self: center;
+    border:#344e41
+
+}
+.card{
+    background-color: #dad7cd;
+}
+.card img{
+    height: 50% !important;
+}
+
+@media (max-width: 992px) {
+  .box .card {
+    width: 90%;
+    max-width: 400px;
+  }
+}
+
+/* Mobile Landscape & smaller */
+@media (max-width: 768px) {
+  .box {
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    gap: 20px;
+  }
+  .box .card {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+/* Mobile Portrait */
+@media (max-width: 480px) {
+  .box .card {
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 14px;
+  }
+  .box {
+    padding: 10px;
+    gap: 15px;
+  }
+  .box .card a {
+    padding: 10px 16px;
+    font-size: 14px;
+  }
+}

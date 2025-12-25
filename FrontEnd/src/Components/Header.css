@@ -1,0 +1,365 @@
+/* === Your original header CSS (kept exactly) === */
+.navbar {
+    background-color: #dad7cd !important;    
+}
+
+.navbar .nav-link {
+    color: #344e41 !important;
+    font-size: larger;
+    padding: 2px;
+    border:2px solid transparent
+}
+
+.navbar .nav-link:hover {
+    box-sizing: border-box;
+    color: #3a5a40 !important;
+    border-radius: 100px;
+    text-decoration: underline;
+}
+
+.navbar .navbar-brand {
+    color: #000000 !important;
+    font-weight: bold;
+    font-size: x-large;
+    border: 4px solid #344e41;
+    padding: 5px;
+    border-radius: 100px;
+}
+
+.navbar .navbar-brand:hover {
+    border: 4px solid black !important;
+    background-color: #344e41;
+    color: #dad7cd !important;
+}
+
+.signup-btn {
+  background-color: transparent;
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.signup-btn .nav-link {
+  color: black;
+  text-decoration: none;
+}
+
+.signup-btn:hover {
+  background-color: black;
+  transform: scale(1.05);
+  padding: 10px;
+}
+
+.signup-btn:hover .nav-link {
+  color: white;
+}
+
+/* ✅ Responsive styling */
+@media (max-width: 768px) {
+  .signup-btn {
+    padding: 6px 12px;
+    font-size: 0.9rem;
+    border-radius: 6px;
+  }
+}
+
+@media (max-width: 480px) {
+  .signup-btn {
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    border-width: 1.5px;
+  }
+}
+
+/* === Dropdown styles (integrated, matches your theme) === */
+
+/* container for the account area */
+.account-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+/* the button that shows avatar + "My Account" */
+.account-button {
+  background: transparent;
+  border: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  padding: 6px 8px;
+  border-radius: 10px;
+  transition: background 0.15s ease;
+}
+
+.account-button:hover {
+  background: rgba(0,0,0,0.03);
+}
+
+/* small circular avatar in the header */
+.account-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 2px solid #344e41;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #dad7cd;
+  font-weight: 700;
+  color: #344e41;
+  flex-shrink: 0;
+}
+
+.account-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* nice subtle label */
+.account-button span {
+  color: #344e41;
+  font-weight: 700;
+}
+
+/* the popup panel */
+.account-dropdown {
+  position: absolute;
+  top: calc(100% + 10px);
+  right: 0;
+  width: 280px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 12px 40px rgba(2,6,23,0.12);
+  padding: 12px;
+  z-index: 1200;
+  border: 1px solid rgba(52,78,65,0.06);
+  font-family: inherit;
+}
+
+/* header row inside dropdown */
+.dropdown-header {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  padding-bottom: 8px;
+}
+
+/* larger avatar inside dropdown */
+.dropdown-avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #eef6f6;
+  border: 2px solid #344e41;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  color: #344e41;
+  flex-shrink: 0;
+}
+
+.dropdown-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* profile info */
+.dropdown-info {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.dropdown-name {
+  font-size: 15px;
+  font-weight: 800;
+  color: #0f172a;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dropdown-email {
+  font-size: 13px;
+  color: #6b7280;
+  margin-top: 4px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dropdown-id {
+  margin-top: 6px;
+  font-size: 12px;
+  color: #344e41;
+}
+
+.user-id {
+  background: rgba(52,78,65,0.06);
+  padding: 2px 6px;
+  border-radius: 6px;
+  font-family: monospace;
+  font-size: 11px;
+}
+
+/* divider */
+.account-dropdown hr {
+  border: none;
+  height: 1px;
+  background: rgba(52,78,65,0.06);
+  margin: 10px 0;
+  border-radius: 1px;
+}
+
+/* action items */
+.dropdown-item {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  margin-top: 6px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #0f172a;
+  font-weight: 700;
+  background: linear-gradient(90deg,#f8fafc,#fff);
+  border: 1px solid rgba(0,0,0,0.04);
+  cursor: pointer;
+}
+
+.dropdown-item:hover {
+  background: #344e41;
+  color: #dad7cd;
+}
+
+/* logout button visually distinct */
+.dropdown-item.logout {
+  background: #e63946;
+  color: #fff;
+  border: 0;
+}
+
+/* small responsive tweaks */
+@media (max-width: 880px) {
+  .nav-links { display: none; }
+  .nav-inner { padding: 0 12px; }
+  .account-dropdown { right: 8px; left: 8px; width: auto; }
+}
+/* ---------- Force header dropdown above all page content ---------- */
+/* Use fixed positioning so it's not clipped by ancestor stacking contexts */
+.account-dropdown {
+  position: fixed;                         /* remove from document flow / stacking contexts */
+  top: calc(var(--header-height, 68px) + 10px); /* offset from top — adjust var or px to match header height */
+  right: 18px;                             /* align to right edge of header area (adjust if needed) */
+  width: 300px;                            /* slightly wider if you want */
+  max-width: calc(100vw - 36px);
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 12px 40px rgba(2,6,23,0.12);
+  padding: 12px;
+  z-index: 2147483647 !important;         /* very high so it sits above anything */
+  pointer-events: auto;
+  transform: none !important;             /* avoid transforms from elsewhere affecting it */
+  -webkit-transform: none !important;
+}
+
+/* keep small screens safe */
+@media (max-width: 880px) {
+  .account-dropdown {
+    right: 12px;
+    left: 12px;
+    width: auto;
+    max-width: none;
+  }
+}
+
+/* ---------- Lower page form z-index so dropdown wins (optional but recommended) ---------- */
+.addmember-wrap.redesigned,
+.addmember-card.redesigned-card,
+.myaccount-container,
+.myaccount-card,
+.addmember-wrap.redesigned > h2 {
+  z-index: 1 !important;    /* keep them interactive but below dropdown */
+  position: relative;       /* preserve layout, but avoid huge stacking index */
+}
+
+/* if you previously raised footer/navbar layers, ensure header is above them */
+.navbar {
+  position: relative;
+  z-index: 3000;
+}
+
+/* --- Speak button styles (matches your theme) --- */
+.speak-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-right: 6px;
+}
+
+/* main speak button */
+.speak-btn {
+  background: transparent;
+  border: 2px solid #344e41;
+  color: #344e41;
+  padding: 6px 12px;
+  border-radius: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.18s ease;
+  font-size: 0.95rem;
+}
+
+.speak-btn:hover {
+  background: #344e41;
+  color: #dad7cd;
+  transform: scale(1.03);
+}
+
+/* small stop / pause control */
+.speak-controls {
+  display: inline-flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.speak-control-btn {
+  background: rgba(52,78,65,0.06);
+  border: 1px solid rgba(52,78,65,0.12);
+  padding: 6px 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.speak-control-btn:focus,
+.speak-btn:focus {
+  outline: 3px solid rgba(52,78,65,0.12);
+  outline-offset: 2px;
+}
+
+/* small icon text spacing */
+.speak-icon {
+  font-size: 1.05rem;
+  line-height: 1;
+}
+
+/* hide controls on very small screens if needed */
+@media (max-width: 480px) {
+  .speak-wrap { gap: 6px; }
+  .speak-btn { padding: 5px 10px; font-size: 0.85rem; border-radius: 10px; }
+  .speak-control-btn { padding: 5px 8px; font-size: 0.85rem; }
+}

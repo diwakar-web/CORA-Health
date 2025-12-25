@@ -1,0 +1,93 @@
+.footer {
+    background-color: black;
+    width: 100%;
+    min-height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Brand Section */
+.div1 {
+    margin-top: 10px;
+}
+
+.div1 h1 {
+    font-size: 1.8rem;
+    color: white;
+    margin-bottom: 10px;
+}
+
+/* Navigation Links */
+.div2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+
+.div2 ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    padding: 0;
+    margin: 0;
+}
+
+.div2 ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.div2 ul li a:hover {
+    color: #588157;
+}
+
+/* Social Icons */
+.div3 ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    padding: 0;
+    margin: 0;
+}
+
+.div3 ul li a {
+    color: white;
+    font-size: 1.5rem;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.div3 ul li a:hover {
+    color: #588157;
+    transform: scale(1.2);
+}
+
+/* Footer Bottom */
+.div4 {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .div2 ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .div1 h1 {
+        font-size: 1.4rem;
+    }
+
+    .div3 ul {
+        gap: 15px;
+    }
+}
